@@ -1,0 +1,15 @@
+jj@JJ:~/internship/qunit/Circle$ npm install
+npm WARN prefer global grunt-init@0.2.1 should be installed with -g
+npm WARN unmet dependency /home/jj/internship/qunit/Circle/node_modules/connect requires cookie@'0.0.4' but will load
+npm WARN unmet dependency /home/jj/internship/qunit/Circle/node_modules/cookie,
+npm WARN unmet dependency which is version 0.0.6
+npm WARN unmet dependency /home/jj/internship/qunit/Circle/node_modules/express/node_modules/connect requires send@'0.0.4' but will load
+npm WARN unmet dependency /home/jj/internship/qunit/Circle/node_modules/express/node_modules/send,
+npm WARN unmet dependency which is version 0.1.0
+npm WARN unmet dependency /home/jj/internship/qunit/Circle/node_modules/passport-facebook/node_modules/passport-oauth requires pkginfo@'0.2.x' but will load
+npm WARN unmet dependency undefined,
+npm WARN unmet dependency which is version undefined
+npm WARN unmet dependency /home/jj/internship/qunit/Circle/node_modules/grunt-bower-hooks/node_modules/bower requires lodash@'~0.9.1' but will load
+npm WARN unmet dependency /home/jj/internship/qunit/Circle/node_modules/grunt-bower-hooks/node_modules/lodash,
+npm WARN unmet dependency which is version 1.0.1
+
