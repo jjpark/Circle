@@ -38,7 +38,7 @@
     "grunt-requirejs": "0.3.2",
     "grunt-mocha": "0.2.2",
     "grunt-open": "0.2.0",
-    "grunt-s3": "0.2.0",
+    "grunt-s3": "*",
     "grunt-contrib-less": "0.5.0",
     "matchdep": "0.1.1",
     "supervisor": "0.5.3",
